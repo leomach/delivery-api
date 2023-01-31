@@ -1,0 +1,94 @@
+2023-01-31T12:32:01.720Z [delivery-api] info: listening on 3000
+2023-01-31T12:35:00.950Z [delivery-api] info: POST /pedidos/criarPedido - {"id":501,"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"timestamp":"2023-01-31T12:35:00.935Z"}
+2023-01-31T12:35:01.545Z [delivery-api] info: listening on 3000
+2023-01-31T13:18:57.689Z [delivery-api] info: listening on 3000
+2023-01-31T13:20:18.505Z [delivery-api] info: listening on 3000
+2023-01-31T13:20:38.383Z [delivery-api] info: listening on 3000
+2023-01-31T13:31:39.969Z [delivery-api] info: listening on 3000
+2023-01-31T13:32:09.692Z [delivery-api] info: listening on 3000
+2023-01-31T13:33:50.709Z [delivery-api] info: PUT /pedidos/atualizarPedido - {"id":501,"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"entregue":true}
+2023-01-31T13:33:51.224Z [delivery-api] info: listening on 3000
+2023-01-31T13:49:28.279Z [delivery-api] info: listening on 3000
+2023-01-31T13:50:39.849Z [delivery-api] info: listening on 3000
+2023-01-31T13:51:07.886Z [delivery-api] info: listening on 3000
+2023-01-31T13:51:48.393Z [delivery-api] info: PUT /pedidos/atualizarPedido - {"id":501,"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"entregue":false}
+2023-01-31T13:51:48.875Z [delivery-api] info: listening on 3000
+2023-01-31T13:52:47.132Z [delivery-api] info: PATCH /pedidos/atualizarStatus - {"id":501,"entregue":true}
+2023-01-31T13:52:47.584Z [delivery-api] info: listening on 3000
+2023-01-31T14:10:26.884Z [delivery-api] info: listening on 3000
+2023-01-31T14:12:37.466Z [delivery-api] info: listening on 3000
+2023-01-31T14:14:54.949Z [delivery-api] info: listening on 3000
+2023-01-31T14:18:57.769Z [delivery-api] info: listening on 3000
+2023-01-31T14:19:12.117Z [delivery-api] info: listening on 3000
+2023-01-31T14:19:54.038Z [delivery-api] error: PUT /pedidos - Registro não encontrado
+2023-01-31T14:23:55.489Z [delivery-api] info: listening on 3000
+2023-01-31T14:24:00.453Z [delivery-api] error: PUT /pedidos - Registro não encontrado
+2023-01-31T14:25:23.780Z [delivery-api] info: listening on 3000
+2023-01-31T14:25:25.027Z [delivery-api] error: PUT /pedidos - Registro não encontrado
+2023-01-31T14:28:00.675Z [delivery-api] info: listening on 3000
+2023-01-31T14:28:03.140Z [delivery-api] error: PUT /pedidos - Registro não encontrado
+2023-01-31T14:32:01.479Z [delivery-api] info: listening on 3000
+2023-01-31T14:32:04.554Z [delivery-api] info: PUT /pedidos/atualizarPedido - {"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"entregue":false}
+2023-01-31T14:32:04.969Z [delivery-api] info: listening on 3000
+2023-01-31T14:32:46.384Z [delivery-api] info: PATCH /pedidos/atualizarStatus - {"entregue":true}
+2023-01-31T14:32:46.804Z [delivery-api] info: listening on 3000
+2023-01-31T14:33:53.507Z [delivery-api] error: DELETE /pedidos - idPedido is not defined
+2023-01-31T14:33:53.947Z [delivery-api] info: listening on 3000
+2023-01-31T14:35:08.659Z [delivery-api] info: listening on 3000
+2023-01-31T14:39:22.499Z [delivery-api] info: listening on 3000
+2023-01-31T14:39:26.077Z [delivery-api] error: DELETE /pedidos - idPedido is not defined
+2023-01-31T14:39:26.521Z [delivery-api] info: listening on 3000
+2023-01-31T14:40:01.956Z [delivery-api] info: listening on 3000
+2023-01-31T14:40:33.010Z [delivery-api] info: listening on 3000
+2023-01-31T14:41:25.022Z [delivery-api] error: DELETE /pedidos - idPedido is not defined
+2023-01-31T14:41:25.439Z [delivery-api] info: listening on 3000
+2023-01-31T14:41:37.044Z [delivery-api] info: listening on 3000
+2023-01-31T14:42:08.897Z [delivery-api] error: DELETE /pedidos - idPedido is not defined
+2023-01-31T14:42:09.289Z [delivery-api] info: listening on 3000
+2023-01-31T14:42:26.764Z [delivery-api] info: listening on 3000
+2023-01-31T14:43:17.184Z [delivery-api] error: DELETE /pedidos - idPedido is not defined
+2023-01-31T14:43:17.627Z [delivery-api] info: listening on 3000
+2023-01-31T14:46:25.544Z [delivery-api] info: listening on 3000
+2023-01-31T14:46:28.531Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:47:59.941Z [delivery-api] info: listening on 3000
+2023-01-31T14:48:01.972Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:48:22.067Z [delivery-api] info: listening on 3000
+2023-01-31T14:48:24.060Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:49:00.761Z [delivery-api] info: listening on 3000
+2023-01-31T14:49:02.772Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:52:25.023Z [delivery-api] info: listening on 3000
+2023-01-31T14:52:28.502Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:52:44.967Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:52:58.725Z [delivery-api] info: listening on 3000
+2023-01-31T14:53:01.141Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:53:49.845Z [delivery-api] info: listening on 3000
+2023-01-31T14:53:51.683Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:54:24.143Z [delivery-api] info: listening on 3000
+2023-01-31T14:54:28.183Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:54:52.107Z [delivery-api] info: listening on 3000
+2023-01-31T14:54:53.978Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:55:11.605Z [delivery-api] info: listening on 3000
+2023-01-31T14:55:13.721Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T14:55:53.515Z [delivery-api] info: listening on 3000
+2023-01-31T14:56:27.354Z [delivery-api] info: listening on 3000
+2023-01-31T14:56:32.294Z [delivery-api] info: DELETE /pedidos/deletarPedido/:id - 500
+2023-01-31T14:56:32.731Z [delivery-api] info: listening on 3000
+2023-01-31T14:56:54.892Z [delivery-api] info: listening on 3000
+2023-01-31T14:58:41.010Z [delivery-api] info: listening on 3000
+2023-01-31T14:58:44.748Z [delivery-api] info: DELETE /pedidos/deletarPedido/:id - 500
+2023-01-31T14:58:45.163Z [delivery-api] info: listening on 3000
+2023-01-31T14:58:56.426Z [delivery-api] info: listening on 3000
+2023-01-31T15:00:44.512Z [delivery-api] info: listening on 3000
+2023-01-31T15:00:47.290Z [delivery-api] info: DELETE /pedidos/deletarPedido/:id - "501"
+2023-01-31T15:00:47.700Z [delivery-api] info: listening on 3000
+2023-01-31T15:01:46.752Z [delivery-api] info: POST /pedidos/criarPedido - {"id":502,"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"entregue":false,"timestamp":"2023-01-31T15:01:46.742Z"}
+2023-01-31T15:01:47.192Z [delivery-api] info: listening on 3000
+2023-01-31T15:02:05.061Z [delivery-api] info: PATCH /pedidos/atualizarStatus - {"entregue":true}
+2023-01-31T15:02:05.482Z [delivery-api] info: listening on 3000
+2023-01-31T15:02:18.840Z [delivery-api] info: PUT /pedidos/atualizarPedido - {"cliente":"Leandro Machado","produto":"Pizza Calabresa","valor":30.5,"entregue":false}
+2023-01-31T15:02:19.293Z [delivery-api] info: listening on 3000
+2023-01-31T15:02:26.623Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-01-31T15:03:46.393Z [delivery-api] info: listening on 3000
+2023-01-31T15:04:12.628Z [delivery-api] info: listening on 3000
+2023-01-31T15:04:15.955Z [delivery-api] info: DELETE /pedidos/deletarPedido/:id - "502"
+2023-01-31T15:04:16.379Z [delivery-api] info: listening on 3000
