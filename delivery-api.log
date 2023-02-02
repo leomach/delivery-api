@@ -92,3 +92,79 @@
 2023-01-31T15:04:12.628Z [delivery-api] info: listening on 3000
 2023-01-31T15:04:15.955Z [delivery-api] info: DELETE /pedidos/deletarPedido/:id - "502"
 2023-01-31T15:04:16.379Z [delivery-api] info: listening on 3000
+2023-02-01T13:51:38.629Z [delivery-api] info: listening on 3000
+2023-02-01T14:03:15.141Z [delivery-api] info: listening on 3000
+2023-02-01T14:04:02.467Z [delivery-api] info: listening on 3000
+2023-02-01T14:05:16.900Z [delivery-api] info: GET /pedidos/consultarPedido/:id - "500"
+2023-02-01T14:09:08.580Z [delivery-api] info: listening on 3000
+2023-02-01T14:09:12.930Z [delivery-api] info: GET /pedidos/consultarPedido/:id - "500"
+2023-02-01T14:16:52.545Z [delivery-api] info: listening on 3000
+2023-02-01T14:17:19.820Z [delivery-api] info: listening on 3000
+2023-02-01T14:26:36.373Z [delivery-api] info: listening on 3000
+2023-02-01T14:26:46.189Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'replace')
+2023-02-01T14:27:09.124Z [delivery-api] info: listening on 3000
+2023-02-01T14:27:11.346Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'replace')
+2023-02-01T14:28:25.123Z [delivery-api] info: listening on 3000
+2023-02-01T14:28:27.761Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T14:30:31.630Z [delivery-api] info: listening on 3000
+2023-02-01T14:30:34.659Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T14:31:09.728Z [delivery-api] info: listening on 3000
+2023-02-01T14:31:11.891Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T14:32:55.697Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T22:57:34.615Z [delivery-api] info: listening on 3000
+2023-02-01T22:57:39.470Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T22:58:02.248Z [delivery-api] info: listening on 3000
+2023-02-01T22:58:03.607Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T22:59:30.103Z [delivery-api] info: listening on 3000
+2023-02-01T22:59:35.933Z [delivery-api] info: listening on 3000
+2023-02-01T22:59:37.468Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T23:01:09.427Z [delivery-api] info: listening on 3000
+2023-02-01T23:01:11.852Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T23:07:23.887Z [delivery-api] info: listening on 3000
+2023-02-01T23:07:43.476Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'replace')
+2023-02-01T23:08:05.127Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'replace')
+2023-02-01T23:08:12.308Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'replace')
+2023-02-01T23:08:18.839Z [delivery-api] info: listening on 3000
+2023-02-01T23:08:20.821Z [delivery-api] error: GET /pedidos - Invalid status code: 1
+2023-02-01T23:08:53.317Z [delivery-api] info: listening on 3000
+2023-02-01T23:27:19.185Z [delivery-api] info: listening on 3000
+2023-02-01T23:27:23.852Z [delivery-api] error: GET /pedidos - cliente is not defined
+2023-02-01T23:28:06.966Z [delivery-api] info: listening on 3000
+2023-02-01T23:28:09.129Z [delivery-api] error: GET /pedidos - cliente is not defined
+2023-02-01T23:28:58.798Z [delivery-api] info: listening on 3000
+2023-02-01T23:29:01.410Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-02-01T23:29:40.027Z [delivery-api] info: listening on 3000
+2023-02-01T23:29:41.566Z [delivery-api] error: GET /pedidos - Invalid status code: 0
+2023-02-01T23:31:04.962Z [delivery-api] info: listening on 3000
+2023-02-01T23:31:07.222Z [delivery-api] error: GET /pedidos - Invalid status code: 0
+2023-02-01T23:32:05.043Z [delivery-api] info: listening on 3000
+2023-02-01T23:32:06.642Z [delivery-api] error: GET /pedidos - Invalid status code: 0
+2023-02-01T23:32:45.873Z [delivery-api] info: listening on 3000
+2023-02-01T23:33:26.636Z [delivery-api] info: listening on 3000
+2023-02-01T23:33:37.120Z [delivery-api] error: GET /pedidos - Invalid status code: 0
+2023-02-01T23:35:17.807Z [delivery-api] info: listening on 3000
+2023-02-02T09:37:03.208Z [delivery-api] info: listening on 3000
+2023-02-02T09:37:06.304Z [delivery-api] info: GET /orders/total/:client - GustavoSimão
+2023-02-02T10:23:08.824Z [delivery-api] info: listening on 3000
+2023-02-02T10:23:51.998Z [delivery-api] info: listening on 3000
+2023-02-02T10:24:28.633Z [delivery-api] info: GET /orders/total/:produto - pizzacalabresa
+2023-02-02T10:29:54.241Z [delivery-api] info: listening on 3000
+2023-02-02T10:39:25.289Z [delivery-api] info: listening on 3000
+2023-02-02T10:39:49.053Z [delivery-api] info: listening on 3000
+2023-02-02T10:40:44.774Z [delivery-api] info: listening on 3000
+2023-02-02T10:42:34.335Z [delivery-api] info: GET /orders/total/:client - TáliaSimas
+2023-02-02T10:43:13.813Z [delivery-api] info: GET /orders/total/:client - ClotildeGodoy
+2023-02-02T10:43:33.465Z [delivery-api] info: GET /orders/total/:produto - pizzacalabresa
+2023-02-02T10:44:38.566Z [delivery-api] info: GET /orders/total/:produto - PizzaFrangocomCatupiry
+2023-02-02T10:46:37.059Z [delivery-api] info: POST /pedidos/criarPedido - {"id":503,"cliente":"Rosaura Azenha","produto":"Pizza Pepperoni","valor":32.5,"entregue":false,"timestamp":"2023-02-02T10:46:37.056Z"}
+2023-02-02T10:46:37.710Z [delivery-api] info: listening on 3000
+2023-02-02T10:47:00.920Z [delivery-api] info: PATCH /pedidos/atualizarStatus - {"entregue":true}
+2023-02-02T10:47:01.411Z [delivery-api] info: listening on 3000
+2023-02-02T10:47:14.965Z [delivery-api] info: GET /orders/total/:client - RosauraAzenha
+2023-02-02T10:47:48.515Z [delivery-api] info: GET /orders/total/:produto - PizzaMuçarela
+2023-02-02T10:48:20.916Z [delivery-api] error: DELETE /pedidos - Registro não encontrado
+2023-02-02T10:49:07.850Z [delivery-api] error: GET /pedidos - Registro não encontrado
+2023-02-02T10:49:28.339Z [delivery-api] info: GET /orders/total/:produto - PizzaAtum
+2023-02-02T10:49:47.431Z [delivery-api] error: GET /pedidos - Registro não encontrado
+2023-02-02T10:50:57.830Z [delivery-api] error: GET /pedidos - Registro não encontrado
+2023-02-02T12:27:38.896Z [delivery-api] info: listening on 3000

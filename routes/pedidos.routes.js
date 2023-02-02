@@ -6,6 +6,10 @@ router.post('/criarPedido', PedidosController.criarPedido)
 router.put('/atualizarPedido/:id', PedidosController.atualizarPedido)
 router.patch('/atualizarStatus/:id', PedidosController.atualizarStatus)
 router.delete('/deletarPedido/:id', PedidosController.deletarPedido)
+router.get('/consultarPedido/:id', PedidosController.consultarPedido)
+router.get('/totalPorCliente/:client', PedidosController.totalPorCliente)
+router.get('/totalPorProduto/:produto', PedidosController.totalPorProduto)
+router.get('/listaMaisPedidos/', PedidosController.listaMaisPedidos)
 
 router.use((err, req, res, next) => {
     logger.error(`${req.method} ${req.baseUrl} - ${err.message}`);
